@@ -5,7 +5,9 @@ This to-do list application was bootstrapped with [Create React App](https://git
 ## Total Work Done
 
 Setting up the Redux state management components - 2 hours
+
 Rest of the requirements - 1 hour
+
 Total time taken - 3 hours
 
 ## Initial Setup
