@@ -5,7 +5,7 @@ This to-do list application was bootstrapped with [Create React App](https://git
 
 ## Initial Setup
 
-Please run `npm start` in your terminal at the project's root directory to install all the necessary packages.
+Please make sure you have Node installed in your system. Please run `npm start` in your terminal at the project's root directory to install all the necessary packages.
 
 
 ## Available Scripts
